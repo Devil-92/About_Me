@@ -17,7 +17,7 @@ ML enthusiast from IIT Roorkee, exploring applied machine learning, data analysi
 ### Credit Card Behaviour Score Prediction  
 Binary classification model predicting customer default risk.  
 Includes feature engineering, model evaluation, and performance comparison.  
-**Repo:** https://github.com/Devil-92/Credit_Card_Behaviour_Score_Prediction_Using_Classification
+**Repo:** [https://github.com/Devil-92/Credit_Card_Behaviour_Score_Prediction_Using_Classification](https://github.com/Devil-92/Credit-Card-Behaviour-Score-Prediction-Using-Classification)
 
 ### Smart Product Pricing ML Challenge 2025  
 Developed a multimodal ML pipeline using text + images.  
