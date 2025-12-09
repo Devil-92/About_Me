@@ -22,7 +22,7 @@ Includes feature engineering, model evaluation, and performance comparison.
 ### Smart Product Pricing ML Challenge 2025  
 Developed a multimodal ML pipeline using text + images.  
 Incorporates feature engineering, CNNs, and ensemble learning.  
-**Repo:** https://github.com/Devil-92/Smart_Product_Pricing_ML_Challenge_2025
+**Repo:** [https://github.com/Devil-92/Smart_Product_Pricing_ML_Challenge_2025](https://github.com/Devil-92/Smart-Product-Pricing-ML-Challenge-2025)
 
 ### 100 Days of ML  
 My daily ML learning journey documenting concepts, notes, and experiments.  
