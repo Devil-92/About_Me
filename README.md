@@ -1,6 +1,6 @@
 # Hi, I'm Mamun Chowdhury
 
-ML enthusiast from IIT Roorkee, exploring applied machine learning, data analysis, and real-world model development.
+ML enthusiast from IIT Roorkee focused on applied machine learning, data analysis, and real-world model development.
 
 ---
 
